@@ -1,3 +1,3 @@
 <?php
-echo "very last one";
+echo "sync";
 ?>
