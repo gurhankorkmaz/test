@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-asd slave deneme
-
-17 kasım
-=======
-﻿hoşgeldin aziz
-
-bla bla bla
->>>>>>> branch 'master' of https://github.com/korhanyuzbas/test.git
